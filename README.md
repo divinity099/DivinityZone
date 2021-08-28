@@ -16,7 +16,7 @@
 
 ## PEMILIK REPO
 * **DivinityZone** ⚡
-[<img src="https://telegra.ph/file/4e8854bca90d13d4ae811.jpg">](https://t.me/Itsmebangboy)
+[<img src="https://telegra.ph/file/4e8854bca90d13d4ae811.jpg">](https://t.me/papih_adi)
 
   
   
