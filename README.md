@@ -15,32 +15,21 @@
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **DivinityZone** ⚡
-[<img src="https://telegra.ph/file/4e8854bca90d13d4ae811.jpg">](https://t.me/papih_adi)
-
-  
-  
-  
+<a href="https://t.me/papih_adi"><img src="https://img.shields.io/badge/OWNER-Divinity%20Zone-grean.svg?style=for-the-badge&logo=Telegram"></a>
   
 # KASIH BINTANG DONG KALO FORK
 
-
 ### JOIN GROUP SUPPORT!!:
 
-<a href="https://t.me/cecancogansinilah"><img src="https://img.shields.io/badge/Channel%20DIVINITY%20ZONE-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/MutualanParjamban"><img src="https://img.shields.io/badge/Join-Mutualan%20Parjamban-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/gbngtod"><img src="https://img.shields.io/badge/Join-CHANNEL%20DivinityZone-grean.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MutualanParjamban"><img src="https://img.shields.io/badge/Join-GROUP%20DivinityZone-grean.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
-* **Repo Nya toxic, Gajelas pokoknya mah.** 
-[<img src="https://telegra.ph/file/49e658baad2f60632e1e4.jpg">](https://t.me/MutualanParjamban)
-
 
 <h3 align="center">REPO DivinityZone DICIPTAKAN KARNA GABUT DOANG WKWKWK.</h3>
 <p align="center">&nbsp;</p>
 
-
 ## Bagaimana Cara Deploy?
-
 
 * **VIDEO TUTORIAL DEPLOY!** 🔧
 [<img src="https://telegra.ph/file/5a72ea82dedf3c4e8ffee.jpg">](https://t.me/UserbotChannel/36)
@@ -61,4 +50,4 @@ TERIMAKASIH UNTUK
 *   [VICKY](https://t.me/vckyouubitch) - ⚡Geez-Userbot⚡
 *   [RAMA](https://t.me/ootspambot) - 🌟RAM-UBOT🌟
 *   [TEAMULTROID](https://github.com/TeamUltroid) - ULTROID
-*    DAN MASIH BANYAK LAGI TOT
+*   DAN MASIH BANYAK LAGI TOT
