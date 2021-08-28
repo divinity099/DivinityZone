@@ -178,7 +178,7 @@ YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", None)
 RAM_TEKS_KOSTUM = os.environ.get("RAM_TEKS_KOSTUM") or "ㅤ"
 
 # Untuk Melihat Repo
-REPO_NAME = os.environ.get("REPO_NAME") or "⚡Ꭰɪᴠɪɴɪᴛʏ ϟ Ꮓᴏɴᴇ⚡"
+REPO_NAME = os.environ.get("REPO_NAME") or "Ꭰɪᴠɪɴɪᴛʏ Ꮓᴏɴᴇ"
 
 # Default .alive Name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
@@ -275,7 +275,7 @@ QUOTES_API_TOKEN = os.environ.get("QUOTES_API_TOKEN", None)
 
 # Defaul botlog msg
 BOTLOG_MSG = os.environ.get(
-    "BOTLOG_MSG") or "```║DIVINITY ZONE AKTIF YA!!🔥🔥║\n\nJika Tidak Bisa Di .ping\nSilahkan Anda\nCek viewlogs\nPada heroku Anda.\n```"
+    "BOTLOG_MSG") or "```DIVINITY ZONE AKTIF KONTOLL\n\nJika Tidak Bisa Di .ping\nSilahkan Anda\nCek viewlogs\nPada heroku Anda.\n```"
 
 # Deezloader
 DEEZER_ARL_TOKEN = os.environ.get("DEEZER_ARL_TOKEN", None)
