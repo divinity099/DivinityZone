@@ -22,10 +22,10 @@
   
   
   
-# KALO FORK TUH KASIH BINTANG YA TOLOL!
+# KASIH BINTANG DONG KALO FORK
 
 
-### JOIN DULU TOT!!:
+### JOIN GROUP SUPPORT!!:
 
 <a href="https://t.me/cecancogansinilah"><img src="https://img.shields.io/badge/Channel%20DIVINITY%20ZONE-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/MutualanParjamban"><img src="https://img.shields.io/badge/Join-Mutualan%20Parjamban-purple.svg?style=for-the-badge&logo=Telegram"></a>
