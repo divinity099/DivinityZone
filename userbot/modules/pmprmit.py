@@ -29,11 +29,10 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
     f"**╭━━━━━━━━━━━━━━╮**\n      𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 !!!\n"
-    "**╰━━━━━━━━━━━━━━╯
-𝙱𝚎𝚗𝚝𝚊𝚛 𝚢𝚊**\n"
+    "**╰━━━━━━━━━━━━━━╯**\n
     f"**𝙱𝚎𝚗𝚝𝚊𝚛 𝚢𝚊**\n"
     f"**𝚂𝚎𝚍𝚊𝚗𝚐 𝚖𝚎𝚖𝚊𝚗𝚐𝚐𝚒𝚕 {DEFAULTUSER} !! 𝙹𝚊𝚗𝚐𝚊𝚗 𝚜𝚙𝚊𝚖 𝚔𝚊𝚕𝚘 𝚐𝚊𝚔 𝚖𝚊𝚞 𝚍𝚒𝚋𝚕𝚘𝚔,𝚝𝚞𝚗𝚐𝚐𝚞 {DEFAULTUSER} 𝚋𝚊𝚕𝚊𝚜 𝚢𝚊😝**\n
-    "Jangan lupa Join sini @caritemanonline5")
+    f"**Jangan lupa Join sini @caritemanonline5")
 # =================================================================
 
 
@@ -233,7 +232,7 @@ async def approvepm(apprvpm):
     except IntegrityError:
         return await apprvpm.edit("`Oke Pesan Anda Sudah Diterima ツ`")
 
-    await apprvpm.edit(f"`Baik` [{name0}](tg://user?id={uid}) `Pesan Lu udah di terima ya tunggu {DEFAULTUSER} lagi ngetik!!`")
+    await apprvpm.edit(f"`☛ [{name0}](tg://user?id={uid}) `𝙿𝚎𝚜𝚊𝚗 𝚕𝚞 𝚜𝚞𝚍𝚊𝚑 𝚍𝚒𝚕𝚒𝚑𝚊𝚝 𝚜𝚊𝚖𝚊 {DEFAULTUSER},𝚝𝚞𝚗𝚐𝚐𝚞 {DEFAULTUSER} 𝚕𝚊𝚐𝚒 𝚝𝚢𝚙𝚒𝚗𝚐... 🥵`")
     await apprvpm.delete(getmsg)
     await message.delete()
 
