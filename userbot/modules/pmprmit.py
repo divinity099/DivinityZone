@@ -28,8 +28,8 @@ from userbot.events import register
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
-    f"**╭━━━━━━━━━━━━━━━━━╮**\n    𝗡𝗙𝗢𝗥𝗠𝗔𝗦𝗜\n"
-    "**╰━━━━━━━━━━━━━━━━━╯**\n"
+    f"**╭━━━━━━━━━━━━━━╮**\n      𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 !!!\n"
+    "**╰━━━━━━━━━━━━━━━╯**\n"
     f"**𝙱𝚎𝚗𝚝𝚊𝚛 𝚢𝚊**\n"
     f"**𝚂𝚎𝚍𝚊𝚗𝚐 𝚖𝚎𝚖𝚊𝚗𝚐𝚐𝚒𝚕 {DEFAULTUSER} !!\n 𝙹𝚊𝚗𝚐𝚊𝚗 𝚜𝚙𝚊𝚖 𝚔𝚊𝚕𝚘 𝚐𝚊𝚔 𝚖𝚊𝚞 𝚍𝚒𝚋𝚕𝚘𝚔,𝚝𝚞𝚗𝚐𝚐𝚞 {DEFAULTUSER} 𝚋𝚊𝚕𝚊𝚜 𝚢𝚊😝**\n"
     "╭✠╼━━━━━━❖━━━━━━━✠╮\n"
