@@ -28,14 +28,12 @@ from userbot.events import register
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
-    f"**╭━━━━━━━━━━━━━━━━━╮**\n    🌟SELAMAT DATANG🌟\n"
+    f"**╭━━━━━━━━━━━━━━━━━╮**\n    𝗡𝗙𝗢𝗥𝗠𝗔𝗦𝗜\n"
     "**╰━━━━━━━━━━━━━━━━━╯**\n"
-    "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
-    f"**ANAK KONTOL ANAK NGENTOT,KALO NGECHAT MAJIKAN {DEFAULTUSER} ITU SALAM,\nHABIS ITU SABAR TUNGGU MAJIKAN GUA BALES,\nKALO GA DI BALES - BALES, LU JANGAN NYEPAM KONTOL, KAYA ANAK YATIM MAU MINTA SEMBAKO LU ANJING, APA LAGI LU NGECHAT NYA CUMA MINTA VCS, BISA GUA BLOKIR!! KALO NYEPAM JUGA TAR GUA BLOKIR!!!! TUNGGU SI {DEFAULTUSER} NERIMA PESAN LU**\n"
-    "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
+    f"**𝙱𝚎𝚗𝚝𝚊𝚛 𝚢𝚊**\n"
+    f"**𝚂𝚎𝚍𝚊𝚗𝚐 𝚖𝚎𝚖𝚊𝚗𝚐𝚐𝚒𝚕 {DEFAULTUSER} !!\n 𝙹𝚊𝚗𝚐𝚊𝚗 𝚜𝚙𝚊𝚖 𝚔𝚊𝚕𝚘 𝚐𝚊𝚔 𝚖𝚊𝚞 𝚍𝚒𝚋𝚕𝚘𝚔,𝚝𝚞𝚗𝚐𝚐𝚞 {DEFAULTUSER} 𝚋𝚊𝚕𝚊𝚜 𝚢𝚊😝**\n"
     "╭✠╼━━━━━━❖━━━━━━━✠╮\n"
-    "┣[• 𝐁𝐎𝐓 𝐌𝐄𝐒𝐒𝐀𝐆𝐄\n"
-    "┣[• 𝐁𝐘 ⭐️𝐑𝐀𝐌-𝐔𝐁𝐎𝐓⭐️\n"
+    "┣[•Join @caritemanonline5\n"
     "╰✠╼━━━━━━❖━━━━━━━✠╯")
 # =================================================================
 
@@ -94,7 +92,7 @@ async def permitpm(event):
 
             if COUNT_PM[event.chat_id] > 5:
                 await event.respond(
-                    "`Bacot bat Jamet tolol, Gua blok ajalah`\n"
+                    "`Dibilang jangan spam, Gua blok ajalah`\n"
                     f"`Tunggu {DEFAULTUSER} Bales ya`"
                 )
 
@@ -236,7 +234,7 @@ async def approvepm(apprvpm):
     except IntegrityError:
         return await apprvpm.edit("`Oke Pesan Anda Sudah Diterima ツ`")
 
-    await apprvpm.edit(f"`Baik` [{name0}](tg://user?id={uid}) `Pesan Lu udah di terima ya babi!!`")
+    await apprvpm.edit(f"`Baik` [{name0}](tg://user?id={uid}) `Pesan Lu udah di terima ya tunggu {DEFAULTUSER} lagi ngetik!!`")
     await apprvpm.delete(getmsg)
     await message.delete()
 
@@ -291,7 +289,7 @@ async def blockpm(block):
     else:
         await block.client(BlockRequest(block.chat_id))
         aname = await block.client.get_entity(block.chat_id)
-        await block.edit(f"`Lu Jamet, Maaf Gua blok ya ngentot!!`")
+        await block.edit(f"`Maaf Gua blok ya!!`")
         name0 = str(aname.first_name)
         uid = block.chat_id
 
