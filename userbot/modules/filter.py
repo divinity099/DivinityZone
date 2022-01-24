@@ -39,7 +39,7 @@ async def filter_incoming_handler(handler):
         pass
 
 
-@register(outgoing=True, pattern=r"^Ftr (.*)")
+@register(outgoing=True, pattern=r"^Fts (.*)")
 async def add_new_filter(new_handler):
     """ For .filter command, allows adding new filters in a chat """
     try:
@@ -145,7 +145,7 @@ CMD_HELP.update({
     "filter":
     "`Fltrs`\
     \nUsage: Melihat filter RAM UBOT yang aktif di obrolan.\
-    \n\n`Ftr` <keyword> <balasan> atau balas ke pesan ketik .filter <keyword>\
+    \n\n`Fts` <keyword> <balasan> atau balas ke pesan ketik .filter <keyword>\
     \nUsage: Membuat filter di obrolan.\
     \nBot Akan Membalas Jika Ada Yang Menyebut 'keyword' yang dibuat.\
     \nBisa dipake ke media/sticker/vn/file.\
