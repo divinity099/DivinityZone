@@ -224,11 +224,11 @@ EMOJI_HELP = os.environ.get("EMOJI_HELP") or "⚡"
 
 # Default .alive Group
 GROUP_LINK = os.environ.get(
-    "GROUP_LINK") or "t.me/ruangseksviral"
+    "GROUP_LINK") or "t.me/NaughtySinceBirth"
 
 # Default .repo Bot
 OWNER_BOT = os.environ.get(
-    "OWNER_BOT") or "t.me/papiadi"
+    "OWNER_BOT") or "t.me/Nikenihbos"
 
 
 # Last.fm Module
